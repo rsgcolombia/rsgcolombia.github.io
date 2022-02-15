@@ -1,2 +1,2 @@
 # webpage
-This is the repository of the offical web oage of the RSG - Colombia. 
+This is the repository of the official web page of the RSG - Colombia. 
